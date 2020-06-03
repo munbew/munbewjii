@@ -10,4 +10,4 @@ I incorporated several python libraries for this project such as Numpy, Matplotl
 
 Lastly, this project shows an intuitive apprach to using the data science platform as an alternative to other means such as financial analysis, performance indicators, market information, etc. as a way to provide the organization a tool to apply to future endeavors to expand.
 
-Data used was collected from http://files.grouplens.org/datasets/movielens/ml-latest-small-README.html
+Data used was collected from http://files.grouplens.org/datasets/movielens/ml-latest-small-README.html from IMDB
