@@ -10,6 +10,6 @@ I incorporated several python libraries for this project such as Numpy, Matplotl
 
 Lastly, this project shows an intuitive apprach to using the data science platform as an alternative to other means such as financial analysis, performance indicators, market information, etc. as a way to provide the organization a tool to apply to future endeavors to expand.
 
-Data used was collected from http://files.grouplens.org/datasets/movielens/ml-latest-small-README.html from IMDB
+Data used was collected from https://www.kaggle.com/karrrimba/movie-metadatacsv from IMDB
 
 The following links for the entire project is as follows: Github repo is https://github.com/munbew/munbewjii, Blog post is https://rwong115.blogspot.com/2020/02/why-become-data-scientist.html, and the Youtube video walkthrough is https://www.youtube.com/watch?v=blyUjBbIrfw
